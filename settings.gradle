@@ -1,0 +1,2 @@
+rootProject.name='driverScore'
+include ':app'
